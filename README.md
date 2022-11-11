@@ -1,2 +1,2 @@
 # tabstate-plugin-semantics
-A plugin for @tab-edit/state which implements the semantics of a tablature abstract syntax tree
+An extension for @tab-edit/state that provides rules which implement the semantics of a tablature AST
